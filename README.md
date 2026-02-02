@@ -112,7 +112,7 @@ Data Structure:  Arrays + ArrayList Collections
 
 **Step 1: Download the Project**
 ```bash
-git clone https://github.com/YOUR-USERNAME/UniversityInventorySystem.git
+git clone https://github.com/sujankhatri3/UniventorySystem.git
 cd UniversityInventorySystem
 ```
 
